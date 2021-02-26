@@ -52,12 +52,90 @@
       <recent name="C:\Users\Aynel Cruz\Documents\Intermedio\src\test\java" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Recordando_selenium.primertest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Recordando_selenium.ejercicio6">
+    <configuration name="Recordando_selenium.ejercicio1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Nivel2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Recordando_selenium" />
-      <option name="METHOD_NAME" value="primertest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clase1" />
+      <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
+      <option name="METHOD_NAME" value="ejercicio1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recordando_selenium.ejercicio2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nivel2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clase1" />
+      <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
+      <option name="METHOD_NAME" value="ejercicio2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recordando_selenium.ejercicio3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nivel2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clase1" />
+      <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
+      <option name="METHOD_NAME" value="ejercicio3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recordando_selenium.ejercicio4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nivel2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clase1" />
+      <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
+      <option name="METHOD_NAME" value="ejercicio4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recordando_selenium.ejercicio6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nivel2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clase1" />
+      <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
+      <option name="METHOD_NAME" value="ejercicio6" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,7 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Recordando_selenium.primertest" />
+        <item itemvalue="TestNG.Recordando_selenium.ejercicio6" />
+        <item itemvalue="TestNG.Recordando_selenium.ejercicio4" />
+        <item itemvalue="TestNG.Recordando_selenium.ejercicio3" />
+        <item itemvalue="TestNG.Recordando_selenium.ejercicio1" />
+        <item itemvalue="TestNG.Recordando_selenium.ejercicio2" />
       </list>
     </recent_temporary>
   </component>

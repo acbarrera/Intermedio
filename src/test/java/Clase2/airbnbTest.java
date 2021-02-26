@@ -1,9 +1,12 @@
+package Clase2;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
-import utilities.*;
+import utilities.GetProperties;
 
-public class Recordando_selenium {
+public class airbnbTest {
+    private String url = "https://www.airbnb.com/";
 
     @Test
     public void primertest(){
@@ -12,7 +15,7 @@ public class Recordando_selenium {
         System.setProperty("webdriver.chrome.driver",chromeDriverUrl);
 
         WebDriver driver = new ChromeDriver();
-        driver.get("https://www.google.com/");
+        driver.get(url);
 
         System.out.println(driver.getTitle());
         driver.close();
