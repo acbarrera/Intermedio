@@ -52,7 +52,7 @@
       <recent name="C:\Users\Aynel Cruz\Documents\Intermedio\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Recordando_selenium.ejercicio6">
+  <component name="RunManager" selected="TestNG.airbnbTest.reservaAirbnb">
     <configuration name="Recordando_selenium.ejercicio1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Nivel2" />
       <extension name="coverage">
@@ -64,24 +64,6 @@
       <option name="PACKAGE_NAME" value="Clase1" />
       <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
       <option name="METHOD_NAME" value="ejercicio1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recordando_selenium.ejercicio2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Nivel2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Clase1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Clase1" />
-      <option name="MAIN_CLASS_NAME" value="Clase1.Recordando_selenium" />
-      <option name="METHOD_NAME" value="ejercicio2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -143,13 +125,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="airbnbTest.reservaAirbnb" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Nivel2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Clase2" />
+      <option name="MAIN_CLASS_NAME" value="Clase2.airbnbTest" />
+      <option name="METHOD_NAME" value="reservaAirbnb" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.airbnbTest.reservaAirbnb" />
         <item itemvalue="TestNG.Recordando_selenium.ejercicio6" />
         <item itemvalue="TestNG.Recordando_selenium.ejercicio4" />
         <item itemvalue="TestNG.Recordando_selenium.ejercicio3" />
         <item itemvalue="TestNG.Recordando_selenium.ejercicio1" />
-        <item itemvalue="TestNG.Recordando_selenium.ejercicio2" />
       </list>
     </recent_temporary>
   </component>

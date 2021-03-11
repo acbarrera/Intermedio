@@ -85,11 +85,8 @@ public class Recordando_selenium {
 
         }
     }
-    @Test
-    public void ejercicio7(){
-        
-    }
-   // @AfterMethod
+
+    @AfterMethod
     public void cerrar(){
         driver.close();
     }
